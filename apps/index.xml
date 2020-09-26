@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2bcoma</copyright>
-    <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://2bcoma.github.io/apps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kun Chan</title>
+      <link>https://2bcoma.github.io/apps/kun-chan/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://2bcoma.github.io/apps/kun-chan/</guid>
+      <description>Otaku, do you love ❤️ Anime? Are you Anime expert? Then try to reveal gender of hundreds Anime Characters in Kun.Chan quiz. Do you LOVE ❤️ watching Anime series? Do you think you know all Anime characters? Do you think you are Anime expert? Then otaku challenge yourself: reveal gender of all anime characters under 21 seconds in Kun.Chan quiz. There are hundreds of popular and kawaii anime characters inside Kun.</description>
+    </item>
     
     <item>
       <title>Cat&#39;s Nerd</title>
